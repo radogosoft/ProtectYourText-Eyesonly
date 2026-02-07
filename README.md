@@ -1,4 +1,4 @@
-![Eyes Only Seal](https://raw.githubusercontent.com/radogosoft/ProtectYourText-Eyesonly/main/eyes-only-seal-512.jpg)
+![Eyes Only Seal](https://raw.githubusercontent.com/radogosoft/ProtectYourText-Eyesonly/main/eyesonly-stamp-512.jpg)
 
 # Protect your Text – Eyesonly
 
